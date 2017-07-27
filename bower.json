@@ -1,6 +1,6 @@
 {
-  "name": "tingle",
-  "version": "0.9.0",
+  "name": "bs-tingle",
+  "version": "0.11.1",
   "homepage": "https://github.com/robinparisi/tingle",
   "authors": [
     "Robin Parisi <parisi.robin@gmail.com>"
